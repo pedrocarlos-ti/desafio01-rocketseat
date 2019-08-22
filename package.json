@@ -1,0 +1,13 @@
+{
+  "name": "desafio01",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Pedro Santos <pedrocarlos.ti@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
